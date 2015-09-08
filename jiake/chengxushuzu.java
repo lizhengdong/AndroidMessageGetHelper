@@ -1,0 +1,1 @@
+char array[] = new char[]{
